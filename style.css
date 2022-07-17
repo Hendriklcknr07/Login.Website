@@ -7,3 +7,18 @@
     display: flex;
     justify-content: center;
 }
+
+.sing-in{
+    display: flex;
+    justify-content: flex-end;
+    text-decoration: none;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.alter{
+    padding-right: 5px;
+}
