@@ -3,12 +3,16 @@ function buttoncheck(){
     let password = document.getElementById("password").value;
     let pass = 10;
 
+
     if(age>= 12 , pass==password){
-        console.log("Willkommen");
+        open("index_in_new.html", "_self");
     } else {
         alert("error");
     }
-} 
+
+ }
+
+
        /* let password = document.getElementById("password").value;
          let pass = 10;
       
