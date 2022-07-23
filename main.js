@@ -12,5 +12,13 @@ function buttoncheck(){
 
  }
 
+ function savePictures(){
+    let savePicture = document.getElementById("input-picture");
+    let fileTyp = 
+
+    FileReaderx
+
+ }
+
 
     document.getElementById("buttoncheck").addEventListener("click", buttoncheck);
